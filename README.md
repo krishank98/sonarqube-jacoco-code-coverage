@@ -3,7 +3,7 @@
 Repository to accompany *How To Test Code Coverage Using SonarQube and Jacoco* ([YouTube video](https://youtu.be/6BTOd0X8UCs) | [article](https://tomgregory.com/how-to-measure-code-coverage-using-sonarqube-and-jacoco/)).
 [<img src="How-to-measure-code-coverage-using-SonarQube-and-Jacoco.jpg" width="500px"/>](https://youtu.be/6BTOd0X8UCs)
 
-## Pre-requisites
+## Pre-requisites..
 * JDK 8+
 * Docker
 
